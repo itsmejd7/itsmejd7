@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **IpoStat is a web app that displays upcoming IPOs, their GMP (Grey Market Premium), and key details in a simple, user-friendly interface."**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [github.com/itsmejd7](github.com/itsmejd7)
 
